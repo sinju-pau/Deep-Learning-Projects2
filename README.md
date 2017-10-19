@@ -10,5 +10,5 @@ Here's a list of notebooks illustrating some of my current projects:
 
 2.  [Bank Credit Card Default Predictions using various classification algorithms using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Business-Analytics/blob/master/CreditcardDefaultsData.ipynb)
 
-3.  [Predicting social media performance metrics of posts published in brands' Facebook page, using Regression analysis]()
+3.  [Predicting social media performance metrics of posts published in brands' Facebook page, using Regression analysis](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Business-Analytics/blob/master/FacebookMetrics.ipynb)
 
