@@ -13,3 +13,8 @@ Here's a list of notebooks illustrating some of my current projects:
 3.  [Predicting social media performance metrics of posts published in brands' Facebook page, using Regression analysis](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Business-Analytics/blob/master/FacebookMetrics.ipynb)
 
 3.  [Predicting Lending Club's Loan Status, Analysing features using Deep Learning in Tensorflow and Keras in Python](http://nbviewer.jupyter.org/github/sinju-pau/Deep-Learning-Projects/blob/master/Loan.ipynb)
+
+4.  [Deep Learning: Neural Networks for Retail Product Category Predictions - using Tensorflow & Keras in Python](http://nbviewer.jupyter.org/github/sinju-pau/Deep-Learning-Projects/blob/master/OnlineRetailProductSegment.ipynb)
+
+
+
