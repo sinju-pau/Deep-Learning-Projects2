@@ -17,6 +17,12 @@ Here's a list of notebooks illustrating some of my current projects:
 4.  [Deep Learning: Neural Networks for Retail Product Category Predictions - using Tensorflow & Keras in Python](http://nbviewer.jupyter.org/github/sinju-pau/Deep-Learning-Projects/blob/master/OnlineRetailProductSegment.ipynb)
 
 
+
+
+
+
+
+
 ## Install
 
 **For Python**
