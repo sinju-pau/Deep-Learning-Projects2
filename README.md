@@ -16,7 +16,7 @@ Here's a list of notebooks illustrating some of my current projects:
 
 4.  [Deep Learning: Neural Networks for Retail Product Category Predictions - using Tensorflow & Keras in Python](http://nbviewer.jupyter.org/github/sinju-pau/Deep-Learning-Projects/blob/master/OnlineRetailProductSegment.ipynb)
 
-5. [Machine Learning: Financial Fraud/ Money-Laundering Detction - using Spark and Python in DataBricks environment](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2754224716007874/3360987816541135/6194880497615233/latest.html)
+5. [Machine Learning: Financial Fraud/ Money-Laundering Detection - using Spark and Python in DataBricks environment](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2754224716007874/3360987816541135/6194880497615233/latest.html)
 
 
 
